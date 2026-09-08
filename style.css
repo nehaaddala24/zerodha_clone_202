@@ -1,0 +1,52 @@
+button{
+    color: rgb(235, 29, 153);
+    background-color: rgb(136, 237, 237);
+    padding: 10px 30px;
+
+}
+#par1,#par2{
+    background-color: skyblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: dotted;
+    border-color: rgb(211, 85, 85);
+}
+.par3{
+    border-style: solid;
+    border-color: deeppink;
+    border-width: 8px;
+}
+.par4{
+    margin: 500px, 100px;
+}
+button:hover{
+    background-color: black;
+}
+#btn1{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 70px;
+    margin-right: 95px;
+    border: solid,rgb(8, 177, 243),10px;
+    border-radius: 10px;
+}
+iframe{
+    border-radius: 20px;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-;
+    gap: 30px;
+}
+#tutorials{
+    display: flex;
+    flex-wrap: wrap;
+    gap:30px;
+}
